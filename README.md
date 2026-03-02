@@ -37,13 +37,18 @@ Molecular Biology student at Sofia University with a strong focus on Bayesian st
 [![LaTeX](https://img.shields.io/badge/LaTeX-008080?logo=latex&logoColor=white)](https://www.latex-project.org/)
 
 ## Public metrics
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mlatinov&show_icons=true&theme=github_dark)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mlatinov&layout=compact&theme=github_dark)
+[![Followers](https://img.shields.io/github/followers/mlatinov?label=Followers&style=social)](https://github.com/mlatinov)
+
+<!-- Top languages (manual / stable badges) -->
+[![R](https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white)]()  
+[![Julia](https://img.shields.io/badge/Julia-9558B2?logo=julia&logoColor=white)]()  
+[![Shell](https://img.shields.io/badge/Shell-4EAA25?logo=gnu-bash&logoColor=white)]()  
+[![LaTeX](https://img.shields.io/badge/LaTeX-008080?logo=latex&logoColor=white)]()  
+
+**Top languages:** R, Shell, TeX, Julia
 
 ## Contact & links
 - Email: metodilatinov@abv.bg  
 - LinkedIn: (add your LinkedIn URL here)  
 - Portfolio / website: (add your portfolio link here)  
 - CV: (link to CV / Google Drive / PDF)
-
----
