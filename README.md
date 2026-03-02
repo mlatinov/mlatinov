@@ -21,7 +21,7 @@ Molecular Biology student at Sofia University with a strong focus on Bayesian st
 - Practices: reproducible code, literate analysis, version control, clear documentation
 
 ## Featured projects
-- tidycausality — Meta machine-learning algorithms for causal inference in R (r-learners, S/U/T/X learners); R, tidymodels. (1 ★, updated recently)  
+- tidycausality — Meta machine-learning algorithms for causal inference in R (r-learners, S/U/T/X learners); R, tidymodels.
 - bayesian-viral-infectivity — Bayesian estimation of viral infection probability across dilutions; R, Bayesian inference.  
 - qcflowr — Automated RNA‑seq QC → trimming → alignment → quantification pipeline using FastQC, fastp, HISAT2, featureCounts; Shell / bioinformatics.  
 
@@ -35,17 +35,6 @@ Molecular Biology student at Sofia University with a strong focus on Bayesian st
 [![Stan](https://img.shields.io/badge/Stan-4EAAFF?style=flat&logoColor=white)](https://mc-stan.org/)
 [![tidymodels](https://img.shields.io/badge/tidymodels-3498DB?style=flat&logoColor=white)](https://www.tidymodels.org/)
 [![LaTeX](https://img.shields.io/badge/LaTeX-008080?logo=latex&logoColor=white)](https://www.latex-project.org/)
-
-## Public metrics
-[![Followers](https://img.shields.io/github/followers/mlatinov?label=Followers&style=social)](https://github.com/mlatinov)
-
-<!-- Top languages (manual / stable badges) -->
-[![R](https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white)]()  
-[![Julia](https://img.shields.io/badge/Julia-9558B2?logo=julia&logoColor=white)]()  
-[![Shell](https://img.shields.io/badge/Shell-4EAA25?logo=gnu-bash&logoColor=white)]()  
-[![LaTeX](https://img.shields.io/badge/LaTeX-008080?logo=latex&logoColor=white)]()  
-
-**Top languages:** R, Shell, TeX, Julia
 
 ## Contact & links
 - Email: metodilatinov@abv.bg  
