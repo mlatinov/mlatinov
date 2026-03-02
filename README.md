@@ -25,7 +25,7 @@ Molecular Biology student at Sofia University with a strong focus on Bayesian st
 - bayesian-viral-infectivity — Bayesian estimation of viral infection probability across dilutions; R, Bayesian inference.  
 - qcflowr — Automated RNA‑seq QC → trimming → alignment → quantification pipeline using FastQC, fastp, HISAT2, featureCounts; Shell / bioinformatics.  
 
-## Tech & tools (auto-extracted)
+## Tech & tools 
 <!-- language / framework badges -->
 [![R](https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white)](https://www.r-project.org/)
 [![Julia](https://img.shields.io/badge/Julia-9558B2?logo=julia&logoColor=white)](https://julialang.org/)
