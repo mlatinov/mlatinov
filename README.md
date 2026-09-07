@@ -80,7 +80,7 @@ Hierarchical Bayesian price modeling for Airbnb listings, with simulation-based 
 <table>
 <tr>
 <td width="170" align="center" valign="middle">
-<img src="assets/laplace.png" alt="Laplace" width="150">
+<img src="assets/laplace-logo.png" alt="Laplace" width="150">
 </td>
 <td valign="middle">
 <b>Laplace</b> is a source-to-source preprocessor for <a href="https://mc-stan.org/">Stan</a>. It compiles <code>.laplace</code> files down to plain, readable <code>.stan</code> files, adding a package manager and namespaced <code>pkg::func()</code> imports to a language that has neither natively.<br><br>
